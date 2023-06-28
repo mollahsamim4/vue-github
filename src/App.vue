@@ -6,7 +6,7 @@
       <input type="text" name="" id="" v-model="userData.name" placeholder="Type your name here...">
       <input type="email" name="" id="" v-model="userData.email" placeholder="Type your email here..">
 
-      <input type="text" name="" id="" v-model="userData.website" placeholder="Type your website here...">
+      <input type="text" name="" id="" v-model="userData.website" placeholder="Type your website here">
       </div>
 
 </template>
